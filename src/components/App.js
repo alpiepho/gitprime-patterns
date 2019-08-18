@@ -22,6 +22,7 @@ const App = () => (
               }
               subtermlist {
                 name
+                ordered
                 list {
                   description
                 }

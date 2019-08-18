@@ -17,7 +17,8 @@ const Application = (props) => {
     let length = data.allSiteTermsJson.edges.length;
 
     for (let i = 0; i < length; i++) {
-      newTerms.push(data.allSiteTermsJson.edges[i].node);
+      if (data.allSiteTermsJson.edges[i].node.name)
+        newTerms.push(data.allSiteTermsJson.edges[i].node);
     }
     return newTerms;
   }

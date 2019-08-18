@@ -18,14 +18,14 @@
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: center;
-  background-color: #452475;
-  color: #F6B142;
+  background-color: #D85539;
+  color: white;
 }
 
 .about-section-header p {
   padding-top: 20px;
   text-align: center;
-  background-color: #452475;
+  background-color: #D85539;
   color: white;
   width: 80%;
   margin-left: 10%;
@@ -71,7 +71,7 @@
   .about-section-header p {
     padding-top: 20px;
     text-align: center;
-    background-color: #452475;
+    background-color: #D85539;
     color: white;
     width: 70%;
     margin-left: 15%;

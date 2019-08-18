@@ -35,7 +35,7 @@ const Term = ({term}) => {
       ) : null}
 
       <div>
-        {term.subtermsimple ? (
+        {(term.subtermsimple && term.subtermsimple.name) ? (
           <SubTermSimple
             subTerm={term.subtermsimple}
             forceOpen={term.forceOpen}
@@ -44,7 +44,7 @@ const Term = ({term}) => {
       </div>
 
       <div>
-        {term.subtermlist ? (
+        {(term.subtermlist && term.subtermlist.name) ? (
           <SubTermList
             subTerm={term.subtermlist}
             forceOpen={term.forceOpen}
@@ -53,7 +53,7 @@ const Term = ({term}) => {
       </div>
 
       <div>
-        {term.subtermlinks ? (
+        {(term.subtermlinks && term.subtermlinks.name) ? (
           <SubTermLinks
             subTerm={term.subtermlinks}
             forceOpen={term.forceOpen}
@@ -62,7 +62,7 @@ const Term = ({term}) => {
       </div>
 
       <div>
-        {term.subtermgoogle ? (
+        {(term.subtermgoogle && term.subtermgoogle.name) ? (
           <SubTermGoogle
             subTerm={term.subtermgoogle}
             forceOpen={term.forceOpen}

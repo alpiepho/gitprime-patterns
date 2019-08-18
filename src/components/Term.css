@@ -48,9 +48,10 @@
   } 
   
   .term-label {
-    width: 400px;
+    width: 300px;
     white-space: nowrap;
     overflow: hidden;
+    text-overflow: ellipsis;
     text-align: left;
   }
 }

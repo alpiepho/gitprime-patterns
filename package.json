@@ -1,7 +1,7 @@
 {
-  "name": "terms-pwa-starter",
+  "name": "gitprime-patterns",
   "private": true,
-  "description": "A Gatsby starter for a PWA that shows a list of terms and other details about the terms.",
+  "description": "A review of GitPrime 20 Patterns e-book as a PWA.",
   "version": "0.1.0",
   "author": "Al Piepho <alpiepho@gmail.com>",
   "dependencies": {
@@ -41,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alpiepho/terms-pwa-starter"
+    "url": "https://github.com/alpiepho/gitprime-patterns"
   },
   "bugs": {
-    "url": "https://github.com/alpiepho/terms-pwa-starter/issues"
+    "url": "https://github.com/alpiepho/gitprime-patterns/issues"
   }
 }
