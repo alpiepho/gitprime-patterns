@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: '20 Patterns in Software Teams',
   siteImagePre: './images/gitprime-icon.png',
   siteImagePost: '',
-  siteNote: 'NOTE: This is an interactive way to study the given concepts.  It is also a PWA, installable IOS (home screen) via Safari.',
+  siteNote: 'NOTE: This is an interactive way to study the given concepts.  It is also a PWA, installable on IOS (home screen) via Safari.',
   siteDescription: `A review of GitPrime 20 Patterns e-book as a PWA (version 0.1.1)`,
   siteNoteGitHub: 'https://github.com/alpiepho/gitprime-patterns.git',
   googleAnalyticsId: 'UA-nnnnnnnnn-n',
