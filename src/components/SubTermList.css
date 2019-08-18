@@ -1,0 +1,31 @@
+.subtermlist {
+}
+
+.subtermlist-label {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 16px;
+  height: 10px;
+  margin-bottom: 10px;
+}
+
+.subtermlist-section {
+  margin-left: 20px;
+  overflow-x: scroll;
+  position: relative;
+}
+
+.subtermlist-section ul {
+  margin-bottom: 0px;
+}
+
+.subtermlist-section li {
+  margin-bottom: 0px;
+}
+
+.subtermlist-button,
+.subtermlist-button:focus {
+  border: none;
+  outline: none;
+  background: none;
+}

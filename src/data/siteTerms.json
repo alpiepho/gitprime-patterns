@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Sample Term 1",
+        "description": "This field is where you would add a brief description of the Term. (pre and post images are opitonal.)",
+        "imagePre": "./images/gatsby-icon.png",
+        "imagePost": "./images/gatsby-astronaut.png",
+        "subtermsimple": {
+            "name": "Simple Sub Term",
+            "description": "This is an example of a Sub Term that displays as a paragraph."
+        },
+        "subtermlist": {
+            "name": "Unordered List Sub Term",
+            "list": [
+                {
+                    "description": "A list item."
+                },
+                {
+                    "description": "... and another list item"
+                }
+            ]
+        },
+        "subtermlinks": {
+            "name": "Links",
+            "list": [
+                {
+                    "name": "terms-pwa",
+                    "url": "https://github.com/alpiepho/terms-pwa-starter"
+                },
+                {
+                    "name": "terms-pwa-issues",
+                    "url": "https://github.com/alpiepho/terms-pwa-starter/issues"
+                },
+                {
+                    "url": "https://github.com/alpiepho/terms-pwa-starter"
+                }
+            ]
+        },
+        "subtermgoogle": null
+    },
+    {
+        "name": "Sample Term 2",
+        "description": "This field is where you would add a brief description of the Term.",
+        "imagePre": "",
+        "imagePost": "",
+        "subtermsimple": {
+            "name": "Simple Sub Term",
+            "description": "This is an example of a Sub Term that displays as a paragraph."
+        },
+        "subtermlist": {
+            "name": "Ordered List Sub Term",
+            "ordered": true,
+            "list": [
+                {
+                    "description": "A list item."
+                },
+                {
+                    "description": "... and another list item"
+                }
+            ]
+        },
+        "subtermlinks": null,
+        "subtermgoogle": {
+            "name": "Google...",
+            "list": [
+                {
+                    "name": "news"
+                },
+                {
+                    "name": "water sports"
+                }
+            ]
+        }
+    }
+]

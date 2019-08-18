@@ -1,0 +1,26 @@
+.subtermsimple {
+}
+
+.subtermsimple-label {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 16px;
+  height: 10px;
+  margin-bottom: 10px;
+}
+
+.subtermsimple-section {
+  margin-left: 20px;
+  overflow-x: scroll;
+  position: relative;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.subtermsimple-button,
+.subtermsimple-button:focus {
+  border: none;
+  outline: none;
+  background: none;
+}
+

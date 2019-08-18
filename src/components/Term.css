@@ -1,0 +1,56 @@
+.term {
+  text-align: left;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.term-label {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+
+.term-section {
+  margin-left: 20px;
+  overflow-x: scroll;
+  position: relative;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.term-description {
+  margin-bottom: 10px;
+}
+
+.term-imagepre {
+  height: 40px;
+}
+
+.term-imagepost {
+  height: 60px;
+}
+
+
+
+.term-button,
+.term-button:focus {
+  border: none;
+  outline: none;
+  background: none;
+}
+
+@media (max-width: 768px) {
+  .term {
+    text-align: left;
+    width: 96%;
+    margin-left: 3%;
+
+  } 
+  
+  .term-label {
+    width: 400px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: left;
+  }
+}
