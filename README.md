@@ -4,7 +4,7 @@
 Deployed on [GH-Pages](https://alpiepho.github.io/gitprime-patterns)
 
 
-This is a reproduction/summury of the GitPrime ["20 Patterns"](https://blog.gitprime.com/new-book-20-patterns/) book as a Progressive Web Application (PWA).
+This is a reproduction/summary of the GitPrime ["20 Patterns"](https://blog.gitprime.com/new-book-20-patterns/) book as a Progressive Web Application (PWA).
 
 This was developed with React.js and Gatsby.  It was bootstraped from a Gatsby starter I built, and can be found on [GitHub](https://github.com/alpiepho/terms-pwa-starter.git.)
 
