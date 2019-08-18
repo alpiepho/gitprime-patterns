@@ -2,7 +2,7 @@
   "name": "gitprime-patterns",
   "private": true,
   "description": "A review of GitPrime 20 Patterns e-book as a PWA.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Al Piepho <alpiepho@gmail.com>",
   "dependencies": {
     "@material-ui/core": "^4.3.1",

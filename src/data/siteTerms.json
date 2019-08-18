@@ -3,20 +3,23 @@
         "name": "1. Domain Champion",
         "description": "(Individual) The Domain Champion is an expert in a particular area of the codebase. They know nearly everything there is to know about their domain: every class, every method, every algorithm and pattern.",
         "imagePre": "",
-        "imagePost": "",
+        "imagePost": "./images/screeshot_1_domain.png",
         "subtermsimple": {
             "name": "How to recognize it",
-            "description": "TODO"
+            "description": "Domain Champions will always work in the same area of code. They’ll also rewrite their code over and over, and you’ll see it in churn and legacy refactoring metrics as they perfect it...."
         },
         "subtermlist": {
             "name": "What to do",
             "ordered": true,
             "list": [
                 {
-                    "description": "TODO"
+                    "description": "Acknowledge their expertise and encourage them to share..."
                 },
                 {
-                    "description": "TODO"
+                    "description": "Ask them what they like to work on..."
+                },
+                {
+                    "description": "Ask them if they are willing to take on a small assignment outside their domain..."
                 }
             ]
         },
