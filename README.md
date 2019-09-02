@@ -34,3 +34,8 @@ Also see [Issues](https://github.com/alpiepho/terms-pwa-starter/issues) from the
 - Reduce About vertical size.
 - Review how much text is shown.
 - Add link to actual document for more details from 'How to recognize it' sections
+
+
+## Updates for GitHub security issues
+
+- added eslint-utils directly to package.json (is a deep dependency)
